@@ -300,7 +300,7 @@
 				CODE_SIGN_ENTITLEMENTS = TomatoBar/TomatoBar.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 4C6H8UTMAG;
+				DEVELOPMENT_TEAM = E7P6GRWLFV;
 				INFOPLIST_FILE = TomatoBar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -325,7 +325,7 @@
 				CODE_SIGN_ENTITLEMENTS = TomatoBar/TomatoBar.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 4C6H8UTMAG;
+				DEVELOPMENT_TEAM = E7P6GRWLFV;
 				INFOPLIST_FILE = TomatoBar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
